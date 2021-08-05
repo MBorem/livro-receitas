@@ -1,8 +1,7 @@
-# Livro de Receitas :man_cook:
+#Livro de Receitas 👨‍🍳
 
 Olá! Bem vindo.
 
 - Strogonof de Frango
-- Pave
-
-
+- Pavê
+- Bolo de cenoura
